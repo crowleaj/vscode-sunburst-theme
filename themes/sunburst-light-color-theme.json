@@ -79,6 +79,9 @@
         "editorBracketHighlight.foreground1": "#8B4513",
         "editorBracketHighlight.foreground2": "#D94C3D",
         "editorBracketHighlight.foreground3": "#E5A24A",
+        "editorBracketHighlight.foreground4": "#d77d3d",
+        "editorBracketHighlight.foreground5": "#FF7802",
+        "editorBracketHighlight.foreground6": "#A85C2D",
         "activityBar.background": "#F8E4C9",
         "activityBar.foreground": "#8B4513",
         "sideBar.background": "#F8E4C9",
@@ -105,6 +108,20 @@
         "terminal.ansiWhite": "#FFFFFF"
     },
     "tokenColors": [
+        {
+            "scope": "support.type.property-name.json",
+            "settings": {
+                "foreground": "#d77d3d" // Adjust the color value as needed
+            }
+        },
+        {
+            "scope": [
+                "string.quoted.double.json",
+                "string.quoted.single.json"],
+            "settings": {
+                "foreground": "#8B4513",
+            }
+        },
         {
             "scope": [
                 "meta.embedded",
