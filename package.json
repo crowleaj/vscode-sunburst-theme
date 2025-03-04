@@ -3,7 +3,10 @@
   "displayName": "Sunburst",
   "description": "Sunburst theme for VS Code",
   "publisher": "crowleaj",
-  "repository": {"type": "git", "url": "https://github.com/crowleaj/vscode-sunburst-theme"},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crowleaj/vscode-sunburst-theme"
+  },
   "license": "MIT",
   "keywords": [
     "sunburst",
@@ -12,7 +15,7 @@
     "light"
   ],
   "icon": "icon.png",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.97.0"
   },
