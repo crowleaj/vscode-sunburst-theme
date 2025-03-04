@@ -1,0 +1,35 @@
+{
+  "name": "sunburst",
+  "displayName": "Sunburst",
+  "description": "Sunburst theme for VS Code",
+  "publisher": "crowleaj",
+  "license": "MIT",
+  "keywords": [
+    "sunburst",
+    "theme",
+    "dark",
+    "light"
+  ],
+  "icon": "icon.png",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sunburst Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sunburst-dark-color-theme.json"
+      },
+      {
+        "label": "Sunburst Light",
+        "uiTheme": "vs",
+        "path": "./themes/sunburst-light-color-theme.json"
+      }
+    ]
+  }
+}
