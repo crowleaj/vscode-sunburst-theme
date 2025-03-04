@@ -7,10 +7,10 @@ Inspired by the colors you might find on a sunburst guitar, enjoy!
 ## Screenshots
 
 ### Sunburst Dark
-!["Sunburst Dark"](https://github.com/crowleaj/vscode-sunburst-theme/raw/master/screenshots/sunburst-dark.png)
+!["Sunburst Dark"](https://github.com/crowleaj/vscode-sunburst-theme/raw/main/screenshots/sunburst-dark.png)
 
 ### Sunburst Light
-!["Sunburst Light"](https://github.com/crowleaj/vscode-sunburst-theme/raw/master/screenshots/sunburst-light.png)
+!["Sunburst Light"](https://github.com/crowleaj/vscode-sunburst-theme/raw/main/screenshots/sunburst-light.png)
 
 ## License
 
