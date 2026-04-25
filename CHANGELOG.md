@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.3.2]
+- Tune Blueburst Dark terminal selected text and editor symbol highlight visibility
+
 ## [1.3.1]
 - Improve Blueburst Dark editor and terminal selection contrast
 
