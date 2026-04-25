@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.3.1]
+- Improve Blueburst Dark editor and terminal selection contrast
+
 ## [1.3.0]
 - Add Blueburst Dark, a cool blue-burst variant inspired by teal-to-navy burst finishes
 - Generate all bundled themes from the shared variant generator
